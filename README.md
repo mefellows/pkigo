@@ -1,2 +1,3 @@
-# pkigo
-Simple PKI library for Go
+# Pkigo
+
+PKIGo (kee-go) is a simple PKI library for Go applications.
